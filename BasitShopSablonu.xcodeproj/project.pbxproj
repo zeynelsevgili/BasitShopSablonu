@@ -12,6 +12,7 @@
 		B45A3BB7213AB78F00D7F19A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B45A3BB5213AB78F00D7F19A /* Main.storyboard */; };
 		B45A3BB9213AB78F00D7F19A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B45A3BB8213AB78F00D7F19A /* Assets.xcassets */; };
 		B45A3BBC213AB78F00D7F19A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B45A3BBA213AB78F00D7F19A /* LaunchScreen.storyboard */; };
+		B45A3BC4213AC55600D7F19A /* BorderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45A3BC3213AC55600D7F19A /* BorderButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B45A3BB8213AB78F00D7F19A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B45A3BBB213AB78F00D7F19A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B45A3BBD213AB78F00D7F19A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B45A3BC3213AC55600D7F19A /* BorderButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B45A3BB1213AB78F00D7F19A /* AppDelegate.swift */,
 				B45A3BB3213AB78F00D7F19A /* ViewController.swift */,
+				B45A3BC3213AC55600D7F19A /* BorderButton.swift */,
 				B45A3BB5213AB78F00D7F19A /* Main.storyboard */,
 				B45A3BB8213AB78F00D7F19A /* Assets.xcassets */,
 				B45A3BBA213AB78F00D7F19A /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				B45A3BB4213AB78F00D7F19A /* ViewController.swift in Sources */,
 				B45A3BB2213AB78F00D7F19A /* AppDelegate.swift in Sources */,
+				B45A3BC4213AC55600D7F19A /* BorderButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
